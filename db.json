@@ -1,0 +1,25 @@
+{
+    "users" : [
+        {
+            "id" : 1,
+            "nama" : "Muhammad Alfi",
+            "alamat" : "Bekasi",
+            "umur" : "17",
+            "nohp" : "08889009015"
+          },
+          {
+            "id" : 2,
+            "nama ": "Joko",
+            "alamat" : "Cikarang",
+            "umur" : "14",
+            "nohp" : "08889009015"
+          },
+          {
+            "id" : 3,
+            "nama" : "Udin",
+            "alamat" : "Surabaya",
+            "umur" : "18",
+            "nohp" : "08889009015"
+          }
+    ]
+}
